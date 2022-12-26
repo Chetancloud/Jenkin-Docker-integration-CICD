@@ -11,7 +11,7 @@ public class MyspringbootprojectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MyspringbootprojectApplication.class, args);
 		
-		System.out.println("This is for testing");
+		System.out.println("This is for Git testing");
 	
 		
 	}
